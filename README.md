@@ -1,5 +1,5 @@
 # DishRanker-Focuses-on-ranking-dishes-and-restaurant-recommendations.
-<img></img>
+![Alt Text](data_mining_pic.png)
 
 This project explores data mining techniques for analyzing restaurant reviews, focusing on cuisine mapping, dish recognition, ranking mechanisms, and restaurant recommendations. Using natural language processing (NLP) methods such as LDA, LSI, and TF-IDF, generated a cuisine similarity map that clusters similar cuisines based on textual data. Dish recognition is achieved through SegPhrase and ToPMine, allowing for automatic identification and categorization of dish names from large-scale review datasets. Ranking methodologies incorporate frequency counts, sentiment analysis using TextBlob, and average rating calculations to determine the most popular dishes and restaurants. Machine learning models, including Naïve Bayes, SVM, and Gradient Boosting, are employed to predict restaurant hygiene ratings based on review text, helping users make informed dining decisions.
 
